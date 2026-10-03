@@ -10,6 +10,6 @@
 
 Все данные витрин хранятся в parquet
 
-datamart_users обновляется ежемесячно в 01:00
-datamart_zones обновляется еженедельно в 01:00
-datamart_friends_recommendations обновляется ежедневно в 01:00
+- datamart_users обновляется ежемесячно в 01:00
+- datamart_zones обновляется еженедельно в 01:00
+- datamart_friends_recommendations обновляется ежедневно в 01:00
